@@ -6,7 +6,7 @@ Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
 `<Router>` and `<Route path="/page/:param" component={Display}/>` and `<Link to="/page/:param">`
 
-## Web
+## Web setup
 
 ```bash
 npx create-react-app demo-app && cd demo-app && yarn add react-router-dom && yarn start
