@@ -2,7 +2,7 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
-## Key ingredients
+## Key ingredients to use [`React Router`](https://reactrouter.com)
 
 `<Router>` and `<Route path="/page/:param" component={Display}/>` and `<Link to="/page/:param">`
 
