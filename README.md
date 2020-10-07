@@ -73,6 +73,8 @@ function Users() {
 }
 ```
 
+And you can even nest routes inside components that you've routed to:
+
 ```jsx
 import React from "react";
 import {
