@@ -2,6 +2,10 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
+## Key ingredients
+
+`<Router>` and `<Route path="/page/:param" component={Display}/>` and `<Link to="/page/:param">`
+
 <https://reactrouter.com> and <https://github.com/ReactTraining/react-router>
 
 Web: <https://reactrouter.com/web/guides/quick-start> `react-router-dom`
